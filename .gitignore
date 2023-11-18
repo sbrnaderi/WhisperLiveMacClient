@@ -2,3 +2,4 @@
 __pycache__/
 **/__pycache__/
 output_recording.wav
+cache/
